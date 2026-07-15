@@ -1,0 +1,7 @@
+# Ignore logs folder
+logs/
+# Ignore all .notes files
+*.notes
+
+# Ignore folders starting with "pattern"
+pattern*/
